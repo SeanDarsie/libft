@@ -1,4 +1,5 @@
 # libft
+The first project that every student that attends the 42 coding school must complete either in Paris or Silicon Valley.
 Library of useful functions written in C
 
 This library contains many of the functions provided by the string.h and a some extra that are not found there. 
